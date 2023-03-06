@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "name": "Ryan Abshire",
+      "id": 2
+    },
+    {
+      "name": "Alex Krajcik",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Tasty Cotton Keyboard",
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "title": "Elegant Fresh Table",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=64252",
+      "id": 1
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=22616",
+      "id": 2
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=20901",
+      "id": 3
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=47440",
+      "id": 4
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=58974",
+      "id": 5
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=60857",
+      "id": 6
+    }
+  ]
+}
